@@ -1,2 +1,0 @@
-# Cognitivism
-[Home](../index.md)
