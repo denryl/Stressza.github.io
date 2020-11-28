@@ -1,2 +1,0 @@
-# Behaviorism
-[Home](../index.md)
